@@ -89,12 +89,12 @@ button{
 
 #remote-video{
     top: 0;
-    height: 80%;
-    width: 80%;
+    height: 90%;
+    width: 40%;
     left: 0;
     background-color: var(--light);
     position: absolute;
-    margin: 8% 35%;
+    margin: 6% 58%;
 }
 
 #local-video{
