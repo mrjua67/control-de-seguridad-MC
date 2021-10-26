@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Control de Seguridad</title>
+    <title>Control de Seguridad...</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
